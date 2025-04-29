@@ -26,7 +26,7 @@ Este es un programa simple en Python que convierte temperaturas entre Celsius y 
 
 1. Clona o descarga este repositorio
 ```bash
-git clone [[url-del-repositorio](https://github.com/Mar7155/temp-conversor.git)]
+git clone [(https://github.com/Mar7155/temp-conversor.git)]
 ```
 
 ## 📦 Instalar dependencias
